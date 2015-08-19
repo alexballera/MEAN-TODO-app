@@ -10,3 +10,7 @@ body
 {
  margin-bottom:30px; 
 }
+footer, footer p
+{
+  margin: 1em;
+}
